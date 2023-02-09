@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Inter Regular';
+    /* src: url('../fonts/Gotham\ Pro.ttf'); */
+    src: url('../font/Inter-Regular.ttf') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Ogg';
+    /* src: url('../fonts/Gotham\ Pro.ttf'); */
+    src: url('../font/Ogg\ Roman.otf') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Todes';
+    /* src: url('../fonts/Gotham\ Pro.ttf'); */
+    src: url('../font/Todes\ Regular.ttf') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Forum';
+    /* src: url('../fonts/Gotham\ Pro.ttf'); */
+    src: url('../font/Forum-Regular.ttf') format('woff');
+    font-display: swap;
+}
